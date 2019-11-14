@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleAPI</string>
+    <string name="call_service">Request information</string>
+</resources>
